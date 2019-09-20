@@ -14,7 +14,7 @@ apt-get install openssh
 clear
 echo -e "\033[93m Requirement installed"
 sleep 3
-unzip .say.zip
+unzip say.zip
 cp -f say $PREFIX/bin
 chmod 777 $PREFIX/bin/say
 echo
