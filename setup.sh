@@ -6,6 +6,7 @@ apt update
 apt upgrade
 apt-get install toilet
 apt-get install ruby
+pkg install ruby
 gem install lolcat
 apt-get install curl
 apt-get install wget
